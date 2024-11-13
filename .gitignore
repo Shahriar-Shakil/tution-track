@@ -44,3 +44,11 @@ jspm_packages/
 
 # Thumbnails
 Thumbs.db
+
+# Backend-specific
+backend/node_modules
+backend/.env
+
+# Frontend-specific (if added later)
+frontend/node_modules
+frontend/.env
